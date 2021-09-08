@@ -2,19 +2,6 @@ div {
     border: 5px solid rgb(140, 140, 214);
     margin: 5px;
 }
-
-div#third>p {
-    visibility: hidden;
-}
-
-h1 {
-    visibility: hidden;
-}
-
-div#second {
-    visibility: hidden;
-}
-
-img {
-    visibility: visible;
+div#first p {
+    font-size: 30px;
 }
