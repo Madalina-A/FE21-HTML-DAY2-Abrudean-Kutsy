@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    color: #ccc;
+    color: rgba(0, 0, 0, 0.5);
+}
